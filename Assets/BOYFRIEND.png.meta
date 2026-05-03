@@ -1,0 +1,2635 @@
+fileFormatVersion: 2
+guid: 91b0588fe57b1024d88e2442c97b9b08
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOYFRIEND_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3660
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e806b5f3ba5fa044a641e9d7bf782e0
+      internalID: 965665128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3660
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544dce14957dbb34bb4425b4bdd8a1fd
+      internalID: 1557647292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_2
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3660
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37350b232a41dd245b4a15d4a49109e4
+      internalID: 1331331134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3660
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5245e5faa9f0aaa4fafae447156e04a0
+      internalID: 1293342977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_4
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 3660
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3489388fca8d044ab47655241d3cf26
+      internalID: -166452653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_5
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3660
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867b7c25ee071f44b82af3fc2f31c95d
+      internalID: 1444902355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_6
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 3660
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b3c7893a75adf4d935ff98bf058d63
+      internalID: 548985483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_7
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3624
+        width: 444
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19539ca2f7b79674eaf141d78ab7ac06
+      internalID: -226540500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_8
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 3596
+        width: 440
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee4053d004993442b3d865c6dface71
+      internalID: -2085428673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_9
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 3624
+        width: 444
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257cb1a3b78d6bc41b751c51ebec10f5
+      internalID: 1114606210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_10
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 3624
+        width: 444
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f81f2f793dbb314faccc368027fdfee
+      internalID: -44823362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_11
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 3624
+        width: 444
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27899ae17bdd7b04aaee6f5a4327228c
+      internalID: 1874717795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_12
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 3624
+        width: 440
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b257e6c32b0db3040ab1102386898158
+      internalID: 2058717805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_13
+      rect:
+        serializedVersion: 2
+        x: 5836
+        y: 3624
+        width: 444
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b12b6f5c495349801417ee4816763
+      internalID: -2059652429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_14
+      rect:
+        serializedVersion: 2
+        x: 6284
+        y: 3624
+        width: 444
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ef1e44cf07af44a9065cc50b04928b
+      internalID: -488359111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_15
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 3624
+        width: 444
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5bdd6f94bc6d547b048812e35f41f4
+      internalID: -1309470376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_16
+      rect:
+        serializedVersion: 2
+        x: 7180
+        y: 3624
+        width: 444
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e3b0d45b515d24d8f700af7c76f997
+      internalID: -1193543711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_17
+      rect:
+        serializedVersion: 2
+        x: 7632
+        y: 3624
+        width: 440
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985a3cdf853e4054c98507dec39db51d
+      internalID: -2037769235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3116
+        width: 440
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c74af87b523f942b32deba296d12d7
+      internalID: 1470175444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3116
+        width: 440
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718770555b097ec44975e2b096278acd
+      internalID: -691998845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3116
+        width: 444
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503be1efe160e7245afe40b4708b57ad
+      internalID: -1619450631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 3116
+        width: 444
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb562a4012e9f947bd32d1c55aee1a3
+      internalID: 1612398259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_22
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 3116
+        width: 440
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd7e2568e248ee4588f5b2e0562aa5f
+      internalID: -1065074732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_23
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 3116
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d722c3179b36b4abd9689c5987609e
+      internalID: -1401042650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_24
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 3116
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb732fea042f5429ce47c3a362ecb4
+      internalID: 1851815153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_25
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3116
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68666906dd0668d4aa498ed794fc32dd
+      internalID: -1081163792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_26
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 3116
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d556b1b0ed4524fa0cb65c907e9b75
+      internalID: 609872835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_27
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 3116
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1374bb7e8f203459fb0d4c2b3d1a1f
+      internalID: -17532057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_28
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 3116
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e65b24237ca0045bf95641802087bd
+      internalID: 2117352682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_29
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 3116
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8cd369e4211df46b0a514200c667d9
+      internalID: -2099638313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_30
+      rect:
+        serializedVersion: 2
+        x: 5384
+        y: 3168
+        width: 400
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b216af3657654449f4ae533fbee557
+      internalID: -518978362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_31
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 3176
+        width: 420
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e21a8a553678b44ea2c96a2dec3f526
+      internalID: 1193365205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_32
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 3172
+        width: 420
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daf2c4518474e643b07d022c8e7692e
+      internalID: 1266256913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_33
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 3228
+        width: 380
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0721b2e59d111a24c8561e2d93211630
+      internalID: -80148164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_34
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 3224
+        width: 380
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ebd68c13222a6448631e4b5de3dd1a
+      internalID: -1847701887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_35
+      rect:
+        serializedVersion: 2
+        x: 7404
+        y: 3192
+        width: 380
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad61b85417ffb46bebc2d407760b50
+      internalID: -925228853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_36
+      rect:
+        serializedVersion: 2
+        x: 7792
+        y: 3196
+        width: 380
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2b02526963784b8e8e8682549c0ac
+      internalID: -833256986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 384
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0548f6cfa0bc6dc418432628a0856fd1
+      internalID: 153658941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2700
+        width: 380
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bb1c43c6a33ce42accb251505012e8
+      internalID: 750559241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_39
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2700
+        width: 384
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c828b95b84cf847affc8dd80a0db8f
+      internalID: -2049455163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_40
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2676
+        width: 372
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb6374b0f67d9c4a93028aec3f76318
+      internalID: 1988376116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_41
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2676
+        width: 376
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52edbe785398b3345acd4291a28a6d30
+      internalID: 1647976647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_42
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 2700
+        width: 412
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3da213dd0fa91440b2044b13708cb4a
+      internalID: 303438432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_43
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2700
+        width: 412
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6beaf1da9ef8d42a2e7c39b32ca01b
+      internalID: -2082453505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_44
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 2672
+        width: 400
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad9f13d58b7e7340b16e8e0196eecfa
+      internalID: -473586747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_45
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2672
+        width: 404
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813c5badae62f974cb6cb3360b867819
+      internalID: 1208821678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_46
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 2660
+        width: 376
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86747f5b58ceda4a9ef6550fffef2d9
+      internalID: 1155672889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_47
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 2664
+        width: 380
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be092d9163cf54b9f4a2550eb220ee
+      internalID: 1178275331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_48
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 2680
+        width: 364
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65cbbc7fd0f8b14eb2d2c3de7e28e48
+      internalID: 627148763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_49
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 2676
+        width: 364
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0175dafe10ba5248bfe9ca2063e4c47
+      internalID: 1372278564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_50
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 2692
+        width: 436
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d249a166ec4f95d43ac85bba8087efc5
+      internalID: 216589584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_51
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 2688
+        width: 436
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c45b88e5b0fcfc4297e49f36c83efa9
+      internalID: 110025147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_52
+      rect:
+        serializedVersion: 2
+        x: 5964
+        y: 2696
+        width: 444
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6142fa8f8912b05469b571c134876213
+      internalID: -1400599237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_53
+      rect:
+        serializedVersion: 2
+        x: 6416
+        y: 2696
+        width: 440
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5f946cb42b8d84cb7f3dbaec117e6b
+      internalID: 2131648103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_54
+      rect:
+        serializedVersion: 2
+        x: 6864
+        y: 2696
+        width: 444
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f924c6269e5b4c960ec2940bec6f2
+      internalID: -971031645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_55
+      rect:
+        serializedVersion: 2
+        x: 7312
+        y: 2696
+        width: 444
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d210195c2d9915f40a6ed94d8d80f197
+      internalID: 294175275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2236
+        width: 440
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31431e36ff45e624792d010258b000be
+      internalID: 880986742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 2236
+        width: 440
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abd06966b6fc2f4592e14ceeec75ac0
+      internalID: 273277927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_58
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2236
+        width: 444
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61f292940b1be74d9c67a74961b04f9
+      internalID: -81758265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_59
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2236
+        width: 444
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d6d4335be2741478bfb1874ce718dd
+      internalID: 1197247076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_60
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 2236
+        width: 440
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138844753d4b3cf43aa55cb2ba7849ef
+      internalID: -162098086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_61
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2236
+        width: 440
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fc3c3bd5667c44880c8ad301f5c07f
+      internalID: -1724598001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_62
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 2212
+        width: 444
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd0cd5e6698bc24db40ab1480aedc4e
+      internalID: -685925010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_63
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 2216
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9448b1cb8f67439ef49f1bf638fcb
+      internalID: -519636578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_64
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 2216
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee3a48102ae4d47bd42b80bd71d806
+      internalID: 968982701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_65
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 2216
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94de9be94730d8c4ca3313110959ba67
+      internalID: 1131716093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_66
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 2216
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f0fce610007b4981d176826f7421a
+      internalID: 1016772794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_67
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 2216
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9127bd2124e1a8647b25b736b6a73371
+      internalID: 2109498519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_68
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 2216
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a1c9cb12a10bd4d859b5f23fe1203e
+      internalID: 1861489841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_69
+      rect:
+        serializedVersion: 2
+        x: 5836
+        y: 2216
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b942a843a148b34aab3d3a252f82e89
+      internalID: -1175885351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_70
+      rect:
+        serializedVersion: 2
+        x: 6284
+        y: 2216
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3376c14ea124f6a468a3dda2f5b9caf4
+      internalID: -1881979332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_71
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 2216
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390ce8a79f4e75f4b8de21e9d29ad251
+      internalID: 212582068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_72
+      rect:
+        serializedVersion: 2
+        x: 7180
+        y: 2216
+        width: 444
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b0c19ec63ea2c439fe49ea5e7225a6
+      internalID: -722315744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_73
+      rect:
+        serializedVersion: 2
+        x: 7632
+        y: 2216
+        width: 440
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f199d577e143484d9e7824c36d5c6d4
+      internalID: -1044031203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1768
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767a23bfba98a0b4386f5849769860ab
+      internalID: 1645456592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1768
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c3dc88192bff34ca6af6cee15afda5
+      internalID: 1584020550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_76
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1768
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289cd79b7efac9c4f8cb776793393e7a
+      internalID: 327806055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_77
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1768
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569691a928129e7438c359bc2cc89e4b
+      internalID: -1178342090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_78
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1768
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105d62ab96d5fc944b95654c0bff0918
+      internalID: -1654033136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_79
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1768
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ebe4b4f3bba624793a4dd33346257b
+      internalID: 1465492957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_80
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 1768
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8253bf79250bb06449770ad541768160
+      internalID: -163317414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_81
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 1768
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1f1fc00351d74e9ca30574ceeb762
+      internalID: 2066074219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_82
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 1768
+        width: 440
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e294dc925da9eb4ca8027fb5dd2b806
+      internalID: 845096006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_83
+      rect:
+        serializedVersion: 2
+        x: 4040
+        y: 1768
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37645d51e28c2884f85fd1f731d8ef6e
+      internalID: 983634481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_84
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 1768
+        width: 444
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e36a5fb0b7a243a03d26d2443c56b
+      internalID: 2093124851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_85
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 1776
+        width: 436
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966edfc0313deb4498d5286e140aa430
+      internalID: 189467674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_86
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1760
+        width: 424
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2128dfc01650c48a55cce6a0c22355
+      internalID: 1499716434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_87
+      rect:
+        serializedVersion: 2
+        x: 5804
+        y: 1808
+        width: 396
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51ede79fd3f33e4e9eb06ab86e4f32d
+      internalID: -1257156584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_88
+      rect:
+        serializedVersion: 2
+        x: 6204
+        y: 1808
+        width: 396
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27660157916f2f047a565eb810268a6f
+      internalID: -2079300783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_89
+      rect:
+        serializedVersion: 2
+        x: 6608
+        y: 1808
+        width: 380
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e111d62596cc4bb40a371e644343a
+      internalID: -2065476491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_90
+      rect:
+        serializedVersion: 2
+        x: 6996
+        y: 1808
+        width: 384
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec63209722ba9f0488226b4a51168861
+      internalID: 1056208713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_91
+      rect:
+        serializedVersion: 2
+        x: 7384
+        y: 1808
+        width: 396
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87adf652d2a0c0f419c4680483183e87
+      internalID: 1072215320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_92
+      rect:
+        serializedVersion: 2
+        x: 7784
+        y: 1808
+        width: 396
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07658d41abe6e2c42b198da4f4a78770
+      internalID: 846138687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 408
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a15f1d24626744696e2f6e489b31da
+      internalID: 1634297346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_94
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1356
+        width: 412
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917ab2f63de962247b61899533ddc172
+      internalID: 2131767334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_95
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1352
+        width: 408
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0976624bd227a647b75c9e29756f993
+      internalID: -1894522822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_96
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1340
+        width: 416
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add97dd8b114de54da3d8c9015cea664
+      internalID: -1405659095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_97
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1336
+        width: 412
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f113d3d4cc1a5648a7f49f348c59399
+      internalID: -1131006271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_98
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1336
+        width: 416
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a1198ac16aa92479c2246307b41676
+      internalID: 635066042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_99
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1336
+        width: 412
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1034ef832333740bd00a42a360c7bb
+      internalID: -2050911460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_100
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1336
+        width: 412
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b06f21d33cc5446be021438a4ea6ee
+      internalID: 1767150802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_101
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 1336
+        width: 412
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d6c1a575fe50a47986dd55d8dcf4d6
+      internalID: -392749859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_102
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1376
+        width: 388
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31396a26256ca9b45ae314374b0ce414
+      internalID: -1008916416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_103
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 1376
+        width: 384
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b11332d6208cf04da58f3269ef2ebac
+      internalID: -1747142110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_104
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 1376
+        width: 384
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf8cdfc060949246aee7cd396ba6a3d
+      internalID: 183204645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_105
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 1152
+        width: 704
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ac4576119e05438edfb433a58f79d
+      internalID: -163867302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_106
+      rect:
+        serializedVersion: 2
+        x: 5644
+        y: 1088
+        width: 608
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7c0321c1f12d0499171d28538ceec1
+      internalID: 485331054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_107
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 1068
+        width: 448
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4269c9a61bde44b48600f16b0878e
+      internalID: 1021918596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_108
+      rect:
+        serializedVersion: 2
+        x: 6712
+        y: 1120
+        width: 508
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cc5888d4d1a164c99862e7810061e7
+      internalID: -1261062556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_109
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 1344
+        width: 380
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c6c07ad412edf479e2aa9f26d1c00c
+      internalID: 494989616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_110
+      rect:
+        serializedVersion: 2
+        x: 7608
+        y: 1344
+        width: 380
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ee047b25017e43b1cc17de2f2cedb
+      internalID: -572075808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 384
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103b0e9a3c8126f468c15d600f9d6f35
+      internalID: -2009032640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_112
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 652
+        width: 384
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ff9d31c97d6554d842959192769d91
+      internalID: 1126873139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOYFRIEND_113
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 652
+        width: 384
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7b2dbd2f5a07a46898efd312ddf607
+      internalID: -270643084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BOYFRIEND_0: 965665128
+      BOYFRIEND_1: 1557647292
+      BOYFRIEND_10: -44823362
+      BOYFRIEND_100: 1767150802
+      BOYFRIEND_101: -392749859
+      BOYFRIEND_102: -1008916416
+      BOYFRIEND_103: -1747142110
+      BOYFRIEND_104: 183204645
+      BOYFRIEND_105: -163867302
+      BOYFRIEND_106: 485331054
+      BOYFRIEND_107: 1021918596
+      BOYFRIEND_108: -1261062556
+      BOYFRIEND_109: 494989616
+      BOYFRIEND_11: 1874717795
+      BOYFRIEND_110: -572075808
+      BOYFRIEND_111: -2009032640
+      BOYFRIEND_112: 1126873139
+      BOYFRIEND_113: -270643084
+      BOYFRIEND_12: 2058717805
+      BOYFRIEND_13: -2059652429
+      BOYFRIEND_14: -488359111
+      BOYFRIEND_15: -1309470376
+      BOYFRIEND_16: -1193543711
+      BOYFRIEND_17: -2037769235
+      BOYFRIEND_18: 1470175444
+      BOYFRIEND_19: -691998845
+      BOYFRIEND_2: 1331331134
+      BOYFRIEND_20: -1619450631
+      BOYFRIEND_21: 1612398259
+      BOYFRIEND_22: -1065074732
+      BOYFRIEND_23: -1401042650
+      BOYFRIEND_24: 1851815153
+      BOYFRIEND_25: -1081163792
+      BOYFRIEND_26: 609872835
+      BOYFRIEND_27: -17532057
+      BOYFRIEND_28: 2117352682
+      BOYFRIEND_29: -2099638313
+      BOYFRIEND_3: 1293342977
+      BOYFRIEND_30: -518978362
+      BOYFRIEND_31: 1193365205
+      BOYFRIEND_32: 1266256913
+      BOYFRIEND_33: -80148164
+      BOYFRIEND_34: -1847701887
+      BOYFRIEND_35: -925228853
+      BOYFRIEND_36: -833256986
+      BOYFRIEND_37: 153658941
+      BOYFRIEND_38: 750559241
+      BOYFRIEND_39: -2049455163
+      BOYFRIEND_4: -166452653
+      BOYFRIEND_40: 1988376116
+      BOYFRIEND_41: 1647976647
+      BOYFRIEND_42: 303438432
+      BOYFRIEND_43: -2082453505
+      BOYFRIEND_44: -473586747
+      BOYFRIEND_45: 1208821678
+      BOYFRIEND_46: 1155672889
+      BOYFRIEND_47: 1178275331
+      BOYFRIEND_48: 627148763
+      BOYFRIEND_49: 1372278564
+      BOYFRIEND_5: 1444902355
+      BOYFRIEND_50: 216589584
+      BOYFRIEND_51: 110025147
+      BOYFRIEND_52: -1400599237
+      BOYFRIEND_53: 2131648103
+      BOYFRIEND_54: -971031645
+      BOYFRIEND_55: 294175275
+      BOYFRIEND_56: 880986742
+      BOYFRIEND_57: 273277927
+      BOYFRIEND_58: -81758265
+      BOYFRIEND_59: 1197247076
+      BOYFRIEND_6: 548985483
+      BOYFRIEND_60: -162098086
+      BOYFRIEND_61: -1724598001
+      BOYFRIEND_62: -685925010
+      BOYFRIEND_63: -519636578
+      BOYFRIEND_64: 968982701
+      BOYFRIEND_65: 1131716093
+      BOYFRIEND_66: 1016772794
+      BOYFRIEND_67: 2109498519
+      BOYFRIEND_68: 1861489841
+      BOYFRIEND_69: -1175885351
+      BOYFRIEND_7: -226540500
+      BOYFRIEND_70: -1881979332
+      BOYFRIEND_71: 212582068
+      BOYFRIEND_72: -722315744
+      BOYFRIEND_73: -1044031203
+      BOYFRIEND_74: 1645456592
+      BOYFRIEND_75: 1584020550
+      BOYFRIEND_76: 327806055
+      BOYFRIEND_77: -1178342090
+      BOYFRIEND_78: -1654033136
+      BOYFRIEND_79: 1465492957
+      BOYFRIEND_8: -2085428673
+      BOYFRIEND_80: -163317414
+      BOYFRIEND_81: 2066074219
+      BOYFRIEND_82: 845096006
+      BOYFRIEND_83: 983634481
+      BOYFRIEND_84: 2093124851
+      BOYFRIEND_85: 189467674
+      BOYFRIEND_86: 1499716434
+      BOYFRIEND_87: -1257156584
+      BOYFRIEND_88: -2079300783
+      BOYFRIEND_89: -2065476491
+      BOYFRIEND_9: 1114606210
+      BOYFRIEND_90: 1056208713
+      BOYFRIEND_91: 1072215320
+      BOYFRIEND_92: 846138687
+      BOYFRIEND_93: 1634297346
+      BOYFRIEND_94: 2131767334
+      BOYFRIEND_95: -1894522822
+      BOYFRIEND_96: -1405659095
+      BOYFRIEND_97: -1131006271
+      BOYFRIEND_98: 635066042
+      BOYFRIEND_99: -2050911460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
